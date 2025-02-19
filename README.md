@@ -1,32 +1,42 @@
-# Welcome to My GitHub Repository! 🎵🚀
+# Hi there, I'm Hitesh (LEVENINE) 👋
 
-## Hi there! 👋
-I'm Hitesh Prajapati, a passionate web developer, music producer, and storyteller based in Mumbai. Currently, I'm diving deep into the world of JavaScript, and I'm excited to share my journey with you through this repository.
+I'm a passionate developer currently pursuing a **Bachelor of Vocation in Software Development** at Thakur College of Engineering and Technology. I enjoy tackling new challenges, whether that's through honing my front-end skills with projects from [Frontend Mentor](https://www.frontendmentor.io/profile/autistickyrios) or exploring innovative ideas in my personal projects.
 
-## Projects 🚀
-Here you'll find a collection of projects showcasing my skills in HTML and CSS. From responsive web designs to interactive user interfaces, these projects reflect my dedication to creating visually appealing and user-friendly experiences.
+---
 
-Feel free to explore, clone, and contribute to any of the projects. Your feedback and suggestions are always welcome!
+## About Me
 
-## Learning Journey 🌐
-- **JavaScript**: I'm actively learning and experimenting with JavaScript to add dynamic and interactive elements to my projects. Expect to see more JavaScript-powered features soon!
+- **Developer & Learner:** I believe in the power of continuous learning and building real-world projects that push my boundaries.
+- **Front-end Enthusiast:** Working on diverse projects—from meticulously crafted UI challenges to complete applications—has helped me grow both technically and creatively.
+- **Problem Solver:** I strive to write clean, efficient code and find solutions that not only work well but also create meaningful user experiences.
 
-## Connect with Me 🎶
-- **Facebook**: [Hitesh Prajapati](https://www.facebook.com/akaLevenine/)
-- **Portfolio**: [Front-end Mentor](https://frontendmentor.io/profile/autistickyrios)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/autistickyrios/)
+---
 
-## Let's Collaborate! 🤝
-I'm open to collaborations and eager to learn from fellow developers and creators. If you have ideas, suggestions, or just want to connect, feel free to reach out. Together, let's create something amazing!
+## Projects
 
-## Goals 🌟
-My ambition is to excel as a web developer, music producer, and storyteller. This repository is a testament to my progress and a glimpse into the exciting journey ahead.
+My GitHub is a reflection of my journey:
+- **Frontend Mentor Challenges:** Each project here is a step forward in mastering responsive design and front-end development.
+- **Personal Projects:** A mix of experimental and purposeful projects where I explore new tools, technologies, and ideas.
 
-Thank you for stopping by, and let's build the web together! 🚀🎉
+Feel free to browse through my repositories to see my work in action!
 
-Happy coding and creating! 🎧✨
+---
 
-<!---
-autistickyrios/autistickyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills & Technologies
+
+- **Languages:** HTML, CSS, JavaScript (and more as I continue to learn)
+- **Tools & Platforms:** Git, GitHub, VS Code, and various front-end libraries/frameworks
+- **Other:** Responsive Design, UI/UX Principles, and Agile methodologies
+
+---
+
+## Get In Touch
+
+I'm always open to connecting with fellow developers, potential collaborators, or anyone interested in chatting about tech.  
+- **[EMail](mailto:autistickyrios@gmail.com)**  
+- **[LinkedIn](https://www.linkedin.com/in/autistickyrios/)** 
+- **[Instagram](https://instagram.com/detraquez)**
+
+---
+
+Thanks for stopping by, and happy coding!

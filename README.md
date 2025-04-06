@@ -1,5 +1,5 @@
 # Hi there, I'm Hitesh (LEVENINE) 👋
-[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=dracula)](https://github.com/autistickyrios/github-readme-stats )
+[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient)](https://github.com/autistickyrios/github-readme-stats )
 [![Hitesh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=autistickyrios)](https://github.com/autistickyrio/github-readme-stats)
 
 I'm a passionate developer currently pursuing a **Bachelor of Vocation in Software Development** at Thakur College of Engineering and Technology. I enjoy tackling new challenges, whether that's through honing my front-end skills with projects from [Frontend Mentor](https://www.frontendmentor.io/profile/autistickyrios) or exploring innovative ideas in my personal projects.

@@ -1,10 +1,11 @@
 # Hi there, I'm Hitesh (LEVENINE) 👋
 
-[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient)](https://github.com/autistickyrios/github-readme-stats )
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=autistickyrios&theme=dark&border_radius=20&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient )](https://github.com/autistickyrios/github-readme-stats )
 
 [![Hitesh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=autistickyrios)](https://github.com/autistickyrio/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=autistickyrios&theme=dark&border_radius=20&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 I'm a passionate developer currently pursuing a **Bachelor of Vocation in Software Development** at Thakur College of Engineering and Technology. I enjoy tackling new challenges, whether that's through honing my front-end skills with projects from [Frontend Mentor](https://www.frontendmentor.io/profile/autistickyrios) or exploring innovative ideas in my personal projects.
 

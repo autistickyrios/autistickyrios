@@ -2,6 +2,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=autistickyrios&theme=dark&border_radius=20&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 [![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient )](https://github.com/autistickyrios/github-readme-stats )
 
 [![Hitesh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=autistickyrios)](https://github.com/autistickyrio/github-readme-stats)

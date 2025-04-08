@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hitesh Prajapati</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=autistickyrios&label=Profile%20views&color=0e75b6&style=flat" alt="autistickyrios" /> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=autistickyrios&theme=dark&border_radius=20&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 [![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient )](https://github.com/autistickyrios/github-readme-stats )
 
 [![Hitesh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=autistickyrios)](https://github.com/autistickyrio/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=autistickyrios&label=Profile%20views&color=0e75b6&style=flat" alt="autistickyrios" /> </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=autistickyrios)](https://github.com/autistickyrios/github-profile-trophy)
 

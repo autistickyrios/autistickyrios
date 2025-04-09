@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=autistickyrios&label=Profile%20views&color=0e75b6&style=flat" alt="autistickyrios" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=autistickyrios&theme=dark&border_radius=20&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=autsitickyrios&theme="darkl")](https://git.io/streak-stats)
 
 [![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=autistickyrios&theme=ambient_gradient )](https://github.com/autistickyrios/github-readme-stats )
 

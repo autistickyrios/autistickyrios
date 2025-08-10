@@ -71,9 +71,10 @@
 
 ---
 
-## 🗞️ Useless Fact of the Day
-<!-- START_FACT -->
-Loading daily fact...
-<!-- END_FACT -->
+##  Random Useless Fact
+<!-- RANDOM_FACT_START -->
+Loading fact...
+<!-- RANDOM_FACT_END -->
+
  
 

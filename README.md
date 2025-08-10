@@ -2,7 +2,9 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Hitesh+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Turning+ideas+into+digital+reality+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" />)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Hitesh+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Turning+ideas+into+digital+reality+%F0%9F%9A%80)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=autistickyrios&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/autistickyrios)
 
@@ -15,9 +17,11 @@
 <!-- DAILY_UPDATE_START -->
 **Today's Date:** ![Date](https://img.shields.io/badge/dynamic/json?color=00d9ff&label=Today&query=$.formatted&url=https://worldtimeapi.org/api/timezone/Asia/Kolkata&style=for-the-badge)
 
-**Current IST Time:** ![Time](https://img.shields.io/badge/dynamic/json?color=ff6b6b&label=IST&query=$.datetime&url=https://worldtimeapi.org/api/timezone/Asia/Kolkata&style=for-the-badge&suffix=%20IST)
+**Current Mood:** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Flexing%20Medium%20Skin%20Tone.png" alt="💪" width="20" height="20" /> Monday Motivation: Let's crush some bugs today!
 
 **Days Coded This Year:** ![Days](https://img.shields.io/badge/Days%20Coded-365-00d9ff?style=for-the-badge)
+
+**Today's Motivation Level:** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="⭐" width="15" height="15" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="⭐" width="15" height="15" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="⭐" width="15" height="15" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="⭐" width="15" height="15" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="⭐" width="15" height="15" />
 <!-- DAILY_UPDATE_END -->
 
 ---
@@ -113,7 +117,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" alt="🎲" width="25" height="25" /> Random Developer Wisdom
 
 <!-- RANDOM_FACT_START -->
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="🎯" width="20" height="20" /> Daily Developer Insight
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="15" height="15" /> **Did you know?** The first computer virus was called 'Creeper' and was created in 1971.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="✨" width="20" height="20" /> Today's Coding Wisdom
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="🧠" width="15" height="15" /> *"The best error message is the one that never shows up."*
 <!-- RANDOM_FACT_END -->
 
 ---

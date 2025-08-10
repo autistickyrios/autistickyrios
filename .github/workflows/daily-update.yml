@@ -21,7 +21,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        npm install axios moment
+        echo "No external dependencies needed"
     
     - name: Update README with daily content
       run: node .github/scripts/update-readme.js

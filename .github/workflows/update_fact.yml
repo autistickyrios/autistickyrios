@@ -1,0 +1,31 @@
+name: Update Daily Fact
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allow manual run
+
+jobs:
+  update-fact:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run update script
+        run: |
+          npm install node-fetch@2
+          node .github/scripts/update_fact.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update daily fact" || exit 0
+          git push

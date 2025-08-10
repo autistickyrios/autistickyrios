@@ -1,31 +1,23 @@
-const fetch = require("node-fetch");
 const fs = require("fs");
-
-// README file path
-const readmePath = "./README.md";
-
-// Fetch a random fact from the API
-async function getFact() {
-  const res = await fetch("https://uselessfacts.jsph.pl/random.json?language=en");
-  const data = await res.json();
-  return data.text;
-}
+const fetch = require("node-fetch");
 
 (async () => {
   try {
-    const fact = await getFact();
-    let readme = fs.readFileSync(readmePath, "utf8");
+    const res = await fetch("https://uselessfacts.jsph.pl/random.json?language=en");
+    const data = await res.json();
+    const fact = data.text;
 
-    // Replace between markers
-    const updated = readme.replace(
-      /(<!-- START_FACT -->)([\s\S]*?)(<!-- END_FACT -->)/,
-      `$1\n${fact}\n$3`
-    );
+    let readme = fs.readFileSync("README.md", "utf-8");
+    const start = "<!-- RANDOM_FACT_START -->";
+    const end = "<!-- RANDOM_FACT_END -->";
+    const regex = new RegExp(`${start}[\\s\\S]*${end}`, "m");
 
-    fs.writeFileSync(readmePath, updated);
-    console.log("✅ README updated with new fact:", fact);
+    const replacement = `${start}\n${fact}\n${end}`;
+    readme = readme.replace(regex, replacement);
+
+    fs.writeFileSync("README.md", readme);
+    console.log("Updated README with new fact!");
   } catch (error) {
-    console.error("❌ Failed to update fact:", error);
-    process.exit(1);
+    console.error("Error fetching fact:", error);
   }
 })();

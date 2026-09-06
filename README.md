@@ -68,8 +68,8 @@ B.Voc Software Development · Expected 2027
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=autistickyrios&show_icons=true&hide_border=true&theme=dark" height="165"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autistickyrios&layout=compact&hide_border=true&theme=dark" height="165"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=autistickyrios&show_icons=true&hide_border=true&theme=dark" height="165"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=autistickyrios&layout=compact&hide_border=true&theme=dark" height="165"/></td>
 </tr>
 </table>
 

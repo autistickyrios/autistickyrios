@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hitesh Prajapati</h1>
-<h3>Web Developer</h3>
+<h3>Software Developer</h3>
 
 <p>Full-stack web developer (React · Node.js) building practical, well-structured applications — with a working design sense from Figma, Photoshop, and Framer.</p>
 
